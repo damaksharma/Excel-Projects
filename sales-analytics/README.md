@@ -12,8 +12,16 @@ This repository contains my **Excel-based sales analytics projects**.
 - **Highlights:** 
   - Women contributed ~69% of total orders  
   - Amazon was the highest performing sales channel  
-  - Maharashtra generated the highest revenue  
+  - Maharashtra generated the highest revenue
 
+### 02. [Vantage Goods Profitability Analysis Dashboard](https://github.com/damaksharma/excel-projects/tree/main/sales-analytics/02_vantage-goods-profitability-analysis)
+- **Tools Used:** Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
+- **Description:** Analyzed **9,994 rows of retail sales and profit data** and built an interactive dashboard to evaluate profitability trends across **regions, states, and product categories**.
+- **Highlights:**
+- Total profit generated was **$286,397.02**
+- **Technology** category was the highest profit contributor
+- **West region** recorded the highest profit
+- **Texas** showed the largest loss among all states
 ---
 
 ## How to Explore
